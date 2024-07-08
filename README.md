@@ -1,3 +1,7 @@
+https://raw.githubusercontent.com/tacocat-cat/Boerd-linux/main/screenshot.png
+
+
+
 
 "Boerd Linux is a Linux distribution made by the Devious Developers, a group of developers that have developed multiple software solutions. This operating system is designed to be easy to use and practical. Here are some features that set Boerd Linux apart from other operating systems:
 
