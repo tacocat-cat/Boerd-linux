@@ -1,4 +1,9 @@
 ![screenshot](https://github.com/tacocat-cat/Boerd-linux/assets/131764214/9cb8ca87-1771-41b3-b6c3-589148bc7801)
+![CheetahOSX  Running  - Oracle VM VirtualBox 7_8_2024 12_16_34 PM](https://github.com/tacocat-cat/Boerd-linux/assets/131764214/ac25e115-8eea-4117-926b-bd0b7fc4ce46)
+![CheetahOSX  Running  - Oracle VM VirtualBox 7_8_2024 12_15_49 PM](https://github.com/tacocat-cat/Boerd-linux/assets/131764214/5a7f8fbb-191d-4928-9479-9d3824aa4acf)
+![CheetahOSX  Running  - Oracle VM VirtualBox 7_8_2024 12_16_01 PM](https://github.com/tacocat-cat/Boerd-linux/assets/131764214/2585f21e-8d77-4bef-a9db-372048b272be)
+![CheetahOSX  Running  - Oracle VM VirtualBox 7_8_2024 12_16_11 PM](https://github.com/tacocat-cat/Boerd-linux/assets/131764214/456355da-dc17-48b8-ae20-28aa4c80f048)
+![CheetahOSX  Running  - Oracle VM VirtualBox 7_8_2024 12_16_20 PM](https://github.com/tacocat-cat/Boerd-linux/assets/131764214/ec5fb44c-30a9-4c02-ae9d-cc783a99fabf)
 
 
 
