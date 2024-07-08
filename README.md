@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/tacocat-cat/Boerd-linux/main/screenshot.png
+
 
 
 
