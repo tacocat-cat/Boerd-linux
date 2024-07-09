@@ -28,3 +28,7 @@
 8. **Built-in Virtualization Support**: Boerd Linux could come with built-in support for virtualization, allowing users to run multiple operating systems on the same machine. This could be particularly useful for developers and IT professionals who need to test software in different environments.
 
 Please note that some of these features may not work properly or at all 
+
+Due to Github's file upload Size limit I cannot upload the file so if you want to download the file please download it from this Google drive link
+https://drive.google.com/uc?export=download&id=1ACju6-ySxNq_alcYN-wNlvsWJWW4jr6Y
+And unfortunately it currently only comes in an OVA file If needed convert it to an ISO file 
